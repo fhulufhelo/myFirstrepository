@@ -1,3 +1,70 @@
+@import url(https://fonts.googleapis.com/css?family=Merriweather|Open+Sans|Source+Sans+Pro:100,300,400,700);
+
+body {
+   
+}
+
+#siteWrapper {
+    
+}
+
+#contentWrapper {
+    width: 100%;
+}
+
+#sideBar {
+    display: none;
+}
+
+#header {
+display: none;
+}
+
+#client_logo {
+background-image: none;
+display: none;
+}
+
+#content {
+    
+}
+
+#searchBar {
+   
+}
+
+#searchBar button {
+   
+}
+
+#searchBar button:hover {
+    
+}
+
+.dividerStripe {
+   
+}
+
+#searchBar label {
+  
+}
+
+#searchBar input[type="text"] {
+   
+}
+
+.datePickerMonthSelector {
+   
+}
+
+#searchBar h4 {
+    
+}
+
+#searchBarContent {
+  
+}
+
 #content {
 width: 900px;
 padding: 30px;
@@ -38,14 +105,14 @@ clearfix:before, .clearfix:after {
 
 @media only screen and (max-width: 767px) {
   #content {
-		width: 405px;
-	}
+    width: 405px;
+  }
 
   #content input[type="text"] {
-		width: 90%;
-		margin: 10px 0;
+    width: 90%;
+    margin: 10px 0;
 
-	}
+  }
 
 
 
